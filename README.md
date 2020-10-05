@@ -31,5 +31,5 @@ Documentation:
 - https://medium.com/analytics-vidhya/solving-our-python-basketball-model-d89edfb83f79
 - https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/intro.html#objects-in-this-module
 
-I really enjoyed making these models and competing to see who could obtain the best, altough I would have loved to have more time in order to top myself on my hightest score.
+I really enjoyed making these models and competing to see who could obtain the best, although I would have loved to have more time in order to top myself on my hightest score.
 Hope you enjoy!
